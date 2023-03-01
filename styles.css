@@ -140,6 +140,7 @@ ol {
     border: none;
     border-width: 0;
     color: aliceblue;
+    position : relative ;
     
     background-color: rgba(106, 103, 172,0.5);
   
