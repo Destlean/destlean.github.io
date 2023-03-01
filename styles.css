@@ -149,7 +149,7 @@ ol {
 }
 
 .finalPanel {
-    position: absolute;
+   /* position: absolute;*/
     display: flex;
     bottom: 0;
     width: 100%;
