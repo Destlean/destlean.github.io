@@ -16,3 +16,5 @@ function clicker2(item) {
 
     document.getElementById(item).style.backgroundColor = "rgb(208, 100, 100)";
 }
+
+windows.alert("Buenas!!! Use el enlace REPOSITORIO, para ver en GITHUB. Un saludo. Leandro");
