@@ -20,7 +20,7 @@ body,html {
 .generalbody {
     position: relative;
     border-radius: 10px;
-    text-align: left;
+    text-align: center;
     margin: auto;
     overflow: hidden;
     color: aliceblue;
