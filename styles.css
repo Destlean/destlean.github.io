@@ -24,7 +24,6 @@ body,html {
     overflow: hidden;
     color: aliceblue;
     height: 100%;
-    min-width: 800px;
     max-width: 1000px;
     height: 100%;
 }
