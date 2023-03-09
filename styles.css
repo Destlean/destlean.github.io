@@ -11,14 +11,13 @@
 body,html {
     font-family: var(--appfont);
     background-color: rgb(23, 23, 24);
-    height: 100%;
-    margin:0;
+    margin:auto;
     padding: 0;
     max-width: 1000px;
+    max-height: 1000px;
 }
 
 .generalbody {
-    position: relative;
     border-radius: 10px;
     text-align: left;
     margin: auto;
@@ -110,6 +109,20 @@ body,html {
   .lini a:hover {
     background-color: #000000; 
   }
+
+.navigatormenu {
+    height: 30%;
+    width: 100%;  
+    margin: 0;
+    display: block;
+    margin-top: 2%;
+    background: rgb(158, 155, 221);  
+    font-weight:bold;
+    box-sizing: border-box; 
+    
+    
+
+}
 
 
 .itemmenu {  
